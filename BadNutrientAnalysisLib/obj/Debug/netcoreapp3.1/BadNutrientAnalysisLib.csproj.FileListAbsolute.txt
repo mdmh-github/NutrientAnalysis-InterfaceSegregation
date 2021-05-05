@@ -1,0 +1,9 @@
+C:\Users\diego munoz\Source\Repos\NutrientAnalysisInterfaceSegregation\BadNutrientAnalysisLib\bin\Debug\netcoreapp3.1\BadNutrientAnalysisLib.deps.json
+C:\Users\diego munoz\Source\Repos\NutrientAnalysisInterfaceSegregation\BadNutrientAnalysisLib\bin\Debug\netcoreapp3.1\BadNutrientAnalysisLib.dll
+C:\Users\diego munoz\Source\Repos\NutrientAnalysisInterfaceSegregation\BadNutrientAnalysisLib\obj\Debug\netcoreapp3.1\BadNutrientAnalysisLib.csprojAssemblyReference.cache
+C:\Users\diego munoz\Source\Repos\NutrientAnalysisInterfaceSegregation\BadNutrientAnalysisLib\obj\Debug\netcoreapp3.1\BadNutrientAnalysisLib.AssemblyInfoInputs.cache
+C:\Users\diego munoz\Source\Repos\NutrientAnalysisInterfaceSegregation\BadNutrientAnalysisLib\obj\Debug\netcoreapp3.1\BadNutrientAnalysisLib.AssemblyInfo.cs
+C:\Users\diego munoz\Source\Repos\NutrientAnalysisInterfaceSegregation\BadNutrientAnalysisLib\bin\Debug\netcoreapp3.1\BadNutrientAnalysisLib.pdb
+C:\Users\diego munoz\Source\Repos\NutrientAnalysisInterfaceSegregation\BadNutrientAnalysisLib\obj\Debug\netcoreapp3.1\BadNutrientAnalysisLib.csproj.CoreCompileInputs.cache
+C:\Users\diego munoz\Source\Repos\NutrientAnalysisInterfaceSegregation\BadNutrientAnalysisLib\obj\Debug\netcoreapp3.1\BadNutrientAnalysisLib.dll
+C:\Users\diego munoz\Source\Repos\NutrientAnalysisInterfaceSegregation\BadNutrientAnalysisLib\obj\Debug\netcoreapp3.1\BadNutrientAnalysisLib.pdb
